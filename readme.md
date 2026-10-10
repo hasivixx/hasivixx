@@ -17,9 +17,7 @@ idk what to put here so heres a cat:
 [![Twitter (not X](https://www.google.com/s2/favicons?sz=24&domain=x.com)](https://x.com/hasivixx)
 
 ##### least used:
-[![Matrix](https://www.google.com/s2/favicons?sz=24&domain=matrix.com)](https://matrix.to/#/@hasibix:matrix.org)
 [![Steam](icons/steam.png)](https://steamcommunity.com/id/hasivixx)
 [![TikTok](icons/tiktok.png)](https://www.tiktok.com/@hasivixx)
 [![Twitch](icons/twitch.png)](https://twitch.tv/hasivixx)
-[![Xbox](icons/xbox.png)](https://account.xbox.com/en-us/profile?gamertag=hasibix)
-[![Meta Facebook](icons/facebook.png)](https://www.facebook.com/profile.php?id=100068620727199)
+[![Xbox](icons/xbox.png)](https://www.xbox.com/en-US/play/user/hasivixx)
